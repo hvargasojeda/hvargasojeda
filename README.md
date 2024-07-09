@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hola, iniciando...
+Este mundo se basa en datos, patrones y predicciones. 
 
+Actualmente investigando y aprendiendo.
 <!--
 **hvargasojeda/hvargasojeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
